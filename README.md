@@ -1,2 +1,2 @@
 # Expense-Tracker
-Deployed on: expense-tracker-opal-two.vercel.app
+Deployed on: https://expense-tracker-opal-two.vercel.app
